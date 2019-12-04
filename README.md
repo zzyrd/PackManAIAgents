@@ -4,6 +4,8 @@ Implement 6 AI agents to playing packman.
 ## Notice
 All codes provided will not contain any acutal implementation. Study purpose Only
 
+If interesting my works, contact me at my [LinkedIn](https://www.linkedin.com/in/zhihao-zhang-940603/) for working codes.
+
 ## Methods
 
 ### Breadth First Search
