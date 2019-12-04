@@ -1,5 +1,5 @@
 # PackManAIAgents
-School project of playing packman by AI algorithms.
+Implement 6 AI agents to playing packman.
 
 ## Method
 
