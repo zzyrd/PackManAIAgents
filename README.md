@@ -1,7 +1,7 @@
 # PackManAIAgents
 Implement 6 AI agents to playing packman.
 
-## Method
+## Methods
 
 ### Breadth First Search
 Search next best move by using BFS search algorithm based on current game state.
